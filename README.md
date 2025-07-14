@@ -46,3 +46,24 @@ npm install axios
 ### Run Project
 ```bash
 npm run dev
+```
+## 🛠️ API Reference
+
+### Base URL
+```bash
+https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/{base_currency}.json
+```
+
+### Example (INR)
+```bash
+https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/inr.json
+```
+
+## 📜 License
+ #### This project is licensed under the MIT License.
+![License](https://img.shields.io/badge/License-MIT-green)
+
+## 🙌 Acknowledgements
+- @fawazahmed0/currency-api for providing a free currency exchange API.
+
+

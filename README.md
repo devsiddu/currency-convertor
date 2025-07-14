@@ -22,7 +22,10 @@ A responsive and real-time **Currency Converter Web Application** built using th
 - **API:** [Fawaz Ahmed Currency API](https://github.com/fawazahmed0/currency-api)
 
 ---
-
+## Live Link 🔗
+```bash 
+https://quick-currency.vercel.app
+```
 
 ## 📦 Installation and Usage
 

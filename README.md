@@ -1,12 +1,45 @@
-# React + Vite
+# 💱 Currency Converter (MERN Stack) - CodeSpire
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and real-time **Currency Converter Web Application** built using the **MERN Stack**. This project uses the free **Fawaz Ahmed Currency API** for fetching live exchange rates, providing fast and accurate currency conversions between global currencies.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔄 Real-time currency conversion using [@fawazahmed0/currency-api](https://github.com/fawazahmed0/currency-api).
+- 🌐 Supports major world currencies (USD, INR, EUR, GBP, etc.).
+- 📱 Responsive React.js frontend.
+- ⚙️ Node.js and Express.js backend (optional).
+- 🎨 Clean and simple UI.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📊 Tech Stack
+
+- **Frontend:** React.js, Axios, CSS/Tailwind
+- **Backend:** Node.js, Express.js (optional)
+- **Database:** MongoDB (optional)
+- **API:** [Fawaz Ahmed Currency API](https://github.com/fawazahmed0/currency-api)
+
+---
+
+
+## 📦 Installation and Usage
+
+### Clone the Repository:
+```bash
+git clone https://github.com/devsiddu/currency-convertor.git
+```
+### Install Tailwind css:
+```bash
+npm install tailwindcss @tailwindcss/vite
+```
+### Install Dependencies:
+```bash
+cd currency-convertor
+npm install
+npm install axios
+```
+### Run Project
+```bash
+npm run dev
